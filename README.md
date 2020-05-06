@@ -1,2 +1,2 @@
-# ssd_keras
+# ssd_tensorflow
 A Tensorflow implementation of ssd
