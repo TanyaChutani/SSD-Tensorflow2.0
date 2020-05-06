@@ -1,2 +1,2 @@
-# ssd_tensorflow
+# SSD - Single Shot Detector
 A Tensorflow implementation of ssd
